@@ -1,17 +1,39 @@
 # Advanced Encryption Tool - AES-256
 
+**Company Name:** CODTECH IT SOLUTIONS PRIVATE LIMITED
+
+**Intern Name:** SARVEPALLI AUDI SIVA BHANUVARDHAN
+
+**Intern ID:** CTIS2221
+
+**Domain:** CYBERSECURITY & ETHICAL HACKING
+
+**Batch Duration:** 4 WEEKS
+
+**Mentor Name:** NEELA SANTHOSH KUMAR
+
+## Project Overview
+
 A robust file encryption and decryption application using AES-256-CBC algorithm with both GUI and CLI interfaces.
 
 ## Features
 
 ✓ **AES-256-CBC Encryption** - Military-grade encryption algorithm
+
 ✓ **Password-Based Key Derivation** - PBKDF2 with 100,000 iterations
+
 ✓ **User-Friendly GUI** - Simple tkinter interface
+
 ✓ **Command-Line Interface** - For batch operations
+
 ✓ **Large File Support** - Handles files of any size with streaming
+
 ✓ **Secure Random IV** - New IV for each encryption
+
 ✓ **Password Confirmation** - Prevents accidental password errors
+
 ✓ **Error Handling** - Comprehensive error messages
+
 ✓ **Progress Feedback** - Status updates during operations
 
 ## Installation
