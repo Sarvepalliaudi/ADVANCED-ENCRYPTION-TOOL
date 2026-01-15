@@ -166,6 +166,13 @@ cli.py           -> Command-line interface
 - **Large files** (1GB+): Progressive encryption with no memory issues
 - **Bottleneck**: Disk I/O and PBKDF2 key derivation
 
+## out put
+<img width="757" height="659" alt="Image" src="https://github.com/user-attachments/assets/dfc7607c-9ec9-4425-ab3c-ad1335b0a50e" />
+
+<img width="1187" height="803" alt="Image" src="https://github.com/user-attachments/assets/f6637b44-90db-47ed-bb99-ecd52f1432b9" />
+
+<img width="1156" height="758" alt="Image" src="https://github.com/user-attachments/assets/b64160af-4641-4abc-8737-79b9f9780a11" />
+
 ## License
 
 Open source - Use freely for personal and commercial projects.
